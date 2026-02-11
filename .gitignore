@@ -1,0 +1,4 @@
+*.jl.cov
+*.ji
+
+.ipynb_checkpoints/
